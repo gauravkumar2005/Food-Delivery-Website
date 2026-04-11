@@ -33,14 +33,17 @@
 }
 
 #home{
-   background-image: url("main.jpg"); 
+    background-image: url("main.jpg"); 
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
    height: 670px;
    position: relative;
    align-items: center;
    justify-content: center;
    text-align: center;
    color: white;
-   /* opacity: 1; */
+   opacity: 1;
 }
 
 #home h1{
