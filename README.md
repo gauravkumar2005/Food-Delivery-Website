@@ -9,7 +9,7 @@ A modern and responsive food ordering platform built using **HTML, CSS, and Java
 
 ## 🌐 Live Demo
 
-🔗 **Demo:** https://your-demo-link.vercel.app
+🔗 **Demo:** https://food-delivery-website-gamma-jet.vercel.app/
 
 ## ✨ Features
 
